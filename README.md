@@ -21,6 +21,7 @@ The system is designed to manage and investigate mystery cases. It allows the us
 <tr>
 <td align="center"><b>Exit</b><br><img src="screenshots/exit.png" width="400"></td>
 </tr>
+</table>
 
 ## ✨Main Features
 
