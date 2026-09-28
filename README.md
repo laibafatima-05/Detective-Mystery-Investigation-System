@@ -3,7 +3,8 @@
 The Detective Mystery Investigation System is a C++ console-based project developed using Object-Oriented Programming (OOP) concepts.
 The system is designed to manage and investigate mystery cases. It allows the user to create cases, manage suspects, collect evidence, record clues, and solve cases based on the available investigation information.
 
-# Screenshots
+# 📸Screenshots
+
 <table>
 <tr>
 <td align="center"><b>Case Management</b><br><img src="screenshots/casemanagement.png" width="400"></td>
@@ -21,7 +22,7 @@ The system is designed to manage and investigate mystery cases. It allows the us
 <td align="center"><b>Exit</b><br><img src="screenshots/exit.png" width="400"></td>
 </tr>
 
-## Main Features
+## ✨Main Features
 
 * **Case Management** – Add and view mystery cases.
 * **Suspect Management** – Add and view suspect information.
